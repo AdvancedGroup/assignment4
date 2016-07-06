@@ -1,0 +1,6 @@
+{
+  "name": "Assignment4 Add Sound To Your Game",
+  "tagline": "",
+  "body": "### Add sound to your game  \r\nCreate a sound manager as showed in class and add sound to your game.\r\n\r\n**You should at least:**    \r\nHave one background music.  \r\nHave FOUR clips of sound effects.  \r\nPlay at the correct time point.    \r\n\r\n\r\n###Other resources you may also want to refer to:\r\nhttp://docs.unity3d.com/Manual/PartSysWhatIs.html  \r\n\r\nYou may try to use Particle Systems to make the visual effects.\r\nYou can do this by instantiate prefabs of particle system at the position where *something happens.*      \r\n\r\nBe creative, and have fun with making your game more *JUICY*!  \r\n\r\n**Note:**     \r\nThere is no due date for this assignment. However, our evaluation of your programming skill depends on what we find on RANDON in 2 or 3 days.\r\n\r\n\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
